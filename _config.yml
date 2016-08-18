@@ -30,8 +30,8 @@ swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/tibbben/2017-09-12-Florida-International-University"
+workshop_site: "http://tibbben.github.io/2017-09-12-Florida-International-University"
 
 # Surveys.
 pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
